@@ -338,7 +338,7 @@ B.Tech Computer Science & Engineering (AI & ML)
 
 JK Lakshmipat University, Jaipur, India
 
-GitHub: https://github.com/farooq876
+GitHub: https://github.com/farooq247
 
 ---
 
